@@ -29,12 +29,6 @@
 
 ---
 
-## 🚀 How to Contribute  
+## Screenshots
 
-Feel free to open issues, submit pull requests, or suggest improvements. This project is collaborative and community-driven!  
-
----
-
-## 📜 License  
-
-This project is licensed under the MIT License - feel free to use and modify it as you like.
+![image](https://github.com/user-attachments/assets/7c414f47-17ae-46e9-8b3e-8a0d7ceffa17)
